@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pragya Travels</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding: 50px;">
+  <h1>Welcome to Pragya Travels</h1>
+  <p>Your trusted partner for overseas jobs and travel services.</p>
+  <h2>Contact Us</h2>
+  <p>Phone: 9911482313<br>Email: info@pragyatravels.com</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pragya Travels</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f4f4f4;
+    }
+    header {
+      background-color: #0066cc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px;
+      text-align: center;
+    }
+    .services {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      width: 250px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Pragya Travels</h1>
+    <p>Trusted Manpower & Travel Agency</p>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <div class="services">
+      <div class="card">
+        <h3>Overseas Recruitment</h3>
+        <p>Skilled and unskilled manpower supply for global projects.</p>
+      </div>
+      <div class="card">
+        <h3>Visa Assistance</h3>
+        <p>Complete support for visa processing and documentation.</p>
+      </div>
+      <div class="card">
+        <h3>Flight Booking</h3>
+        <p>Affordable international & domestic ticketing services.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact: 9911482313 | Email: info@pragyatravels.com</p>
+    <p>&copy; 2025 Pragya Travels. All rights reserved.</p>
+  </footer>
+</body>
+</html>
